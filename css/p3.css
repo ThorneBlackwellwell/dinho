@@ -4,6 +4,7 @@ body {
   font-family: 'Prompt', sans-serif;
   background-color: #f8f8f8;
   color: #333;
+  background-attachment: fixed;
 }
 
 .container {
